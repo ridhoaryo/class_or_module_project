@@ -1,5 +1,5 @@
 # import sekarang.py
-from sekarang_module import Waktu as saiki
+from module_sekarang import Waktu as saiki
 
 print(saiki.hari)
 print(saiki.tanggal)
